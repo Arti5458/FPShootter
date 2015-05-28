@@ -106,5 +106,6 @@ public class NetworkManager : MonoBehaviour {
 		messageWindow.text = "";
 		foreach(string m in messages)
 			messageWindow.text += m + "\n";
+		int lk;
 	}
 }

@@ -131,6 +131,7 @@ public class PlayerShooting : MonoBehaviour {
 					StartCoroutine(MyMethod(0.2f));
 
 				}
+				int lm;
 				
 				//cycle impact effects
 

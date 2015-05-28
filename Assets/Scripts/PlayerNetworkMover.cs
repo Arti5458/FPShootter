@@ -20,7 +20,7 @@ public class PlayerNetworkMover : Photon.MonoBehaviour
 	float speed = 0f;
 	bool initialLoad = true;
 	int kill=0;
-
+	int gh;
 	void Start () {
 		rotation=transform.rotation;
 		//gameob=GameObject.Find("health");
